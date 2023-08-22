@@ -1,3 +1,15 @@
 [submodule "dependences/archcraft-openbox"]
 	path = dependences/archcraft-openbox
 	url = git@github.com:archcraft-os/archcraft-openbox.git
+[submodule "dependences/theme/openbox"]
+	path = dependences/theme/openbox
+	url = git@github.com:dracula/openbox.git
+[submodule "dependences/theme/xfce4-terminal"]
+	path = dependences/theme/xfce4-terminal
+	url = git@github.com:dracula/xfce4-terminal.git
+[submodule "dependences/theme/gitk"]
+	path = dependences/theme/gitk
+	url = git@github.com:dracula/gitk.git
+[submodule "dependences/theme/openbox-icon-theme"]
+	path = dependences/theme/openbox-icon-theme
+	url = git@github.com:vinceliuice/Tela-circle-icon-theme.git
