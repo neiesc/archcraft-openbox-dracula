@@ -13,3 +13,6 @@
 [submodule "dependences/theme/openbox-icon-theme"]
 	path = dependences/theme/openbox-icon-theme
 	url = git@github.com:vinceliuice/Tela-circle-icon-theme.git
+[submodule "dependences/theme/wallpaper"]
+	path = dependences/theme/wallpaper
+	url = git@github.com:dracula/wallpaper.git
