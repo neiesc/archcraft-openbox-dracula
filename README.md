@@ -11,6 +11,7 @@
 - [x] openbox
 - [x] openbox icon theme
 - [x] xfce4-terminal
+- [x] Wallpaper
 
 ## Thanks
 🙏🏼 [Archcraft](https://github.com/archcraft-os) for the best distro.
