@@ -12,4 +12,4 @@ ln -sf $PWD/dependences/theme/gitk/gitk $HOME/.config/git/gitk
 
 ln -sf $PWD/files/openbox-themes/themes/dracula $HOME/.config/openbox-themes/themes
 
-ln -sf $PWD/dependences/theme/wallpaper/second-collection/illustrations/galaxy/dracula-galaxy-282a36.png $PWD/files/openbox-themes/themes/dracula/wallpaper
+cp -f $PWD/dependences/theme/wallpaper/second-collection/illustrations/galaxy/dracula-galaxy-282a36.png $PWD/files/openbox-themes/themes/dracula/wallpaper
