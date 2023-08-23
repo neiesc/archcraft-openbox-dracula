@@ -177,8 +177,8 @@ apply_appearance() {
 	xfconf-query -c xsettings -p /Gtk/CursorThemeName -s "$cursor_theme"
 	
 	# inherit cursor theme
-	if [[ -f "$HOME"/.icons/default/index.theme ]]; then
-		sed -i -e "s/Inherits=.*/Inherits=$cursor_theme/g" "$HOME"/.icons/default/index.theme
+	if [[ -f "$HOME"/.icons/Tela-circle-dracula/index.theme ]]; then
+		sed -i -e "s/Inherits=.*/Inherits=$cursor_theme/g" "$HOME"/.icons/Tela-circle-dracula/index.theme
 	fi	
 }
 
