@@ -10,6 +10,8 @@
 - [ ] rofi
 - [x] openbox
 - [x] openbox icon theme
+- [x] gtk
+- [ ] gtk icon theme
 - [x] xfce4-terminal
 - [x] Wallpaper
 
