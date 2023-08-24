@@ -16,3 +16,6 @@
 [submodule "dependences/theme/wallpaper"]
 	path = dependences/theme/wallpaper
 	url = git@github.com:dracula/wallpaper.git
+[submodule "dependences/polybar-scripts"]
+	path = dependences/polybar-scripts
+	url = git@github.com:polybar/polybar-scripts.git
