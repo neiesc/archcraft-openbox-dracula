@@ -13,7 +13,7 @@
 - [x] gtk
 - [ ] gtk icon theme
 - [x] xfce4-terminal
-- [x] Wallpaper
+- [x] wallpaper
 
 ## Thanks
 🙏🏼 [Archcraft](https://github.com/archcraft-os) for the best distro.

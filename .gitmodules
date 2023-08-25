@@ -22,3 +22,6 @@
 [submodule "dependences/theme/gtk"]
 	path = dependences/theme/gtk
 	url = git@github.com:dracula/gtk.git
+[submodule "dependences/polybar-spotify"]
+	path = dependences/polybar-spotify
+	url = git@github.com:Jvanrhijn/polybar-spotify.git
