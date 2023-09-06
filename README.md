@@ -1,19 +1,21 @@
 # Archcraft openbox dracula theme
+## Screenshot
+![Screenshot of Dracule themplate on Archcraftrtyrty](assets/Screenshot.png)
 ## Install
 - `git clone --recurse-submodules -j8 https://github.com/neiesc/dotfiles.git`
 - Run `make`
 
 ## Todo
-- [ ] git
-- [x] gitk
-- [ ] gitkraken
-- [ ] rofi
-- [x] openbox
-- [x] openbox icon theme
-- [x] gtk
-- [ ] gtk icon theme
-- [x] xfce4-terminal
-- [x] wallpaper
+- [ ] Git
+- [x] Gitk
+- [ ] Gitkraken
+- [ ] Rofi
+- [x] Openbox
+- [x] Openbox icon theme
+- [x] GTK
+- [x] GTK icon theme
+- [x] Xfce4-terminal
+- [x] Wallpaper
 
 ## Thanks
 🙏🏼 [Archcraft](https://github.com/archcraft-os) for the best distro.
