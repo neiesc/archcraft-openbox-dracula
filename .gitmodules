@@ -25,3 +25,6 @@
 [submodule "dependences/polybar-spotify"]
 	path = dependences/polybar-spotify
 	url = git@github.com:Jvanrhijn/polybar-spotify.git
+[submodule "dependences/theme/plank"]
+	path = dependences/theme/plank
+	url = git@github.com:dracula/plank.git
