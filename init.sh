@@ -12,7 +12,8 @@ ln -sf $PWD/dependences/theme/gitk/gitk $HOME/.config/git/gitk
 
 ln -sf $PWD/files/openbox-themes/themes/dracula $HOME/.config/openbox-themes/themes
 
-#cp -f $PWD/dependences/theme/wallpaper/second-collection/illustrations/galaxy/dracula-galaxy-282a36.png $PWD/files/openbox-themes/themes/dracula/wallpaper # to change wallpaper
+cp -f $PWD/assets/wallpaper/wallhaven-gandof-kx36mq_1920x1080.png $PWD/files/openbox-themes/themes/dracula/lockscreen
+cp -f $PWD/dependences/theme/wallpaper/second-collection/illustrations/galaxy/dracula-galaxy-282a36.png $PWD/files/openbox-themes/themes/dracula/wallpaper
 
 ln -sf $PWD/dependences/theme/gtk $HOME/.themes/Dracula
 
