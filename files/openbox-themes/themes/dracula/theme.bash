@@ -31,6 +31,7 @@ dark_value='0.30'
 # Wallpaper
 wdir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
 wallpaper="$wdir/wallpaper"
+lockscreen="$wdir/lockscreen"
 
 # Polybar
 polybar_font='JetBrains Mono:size=10;3'

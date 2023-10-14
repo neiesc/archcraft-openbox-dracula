@@ -29,7 +29,7 @@ apply_wallpaper() {
 		nitrogen --head=$head --save --set-zoom-fill "$wallpaper" &>/dev/null
 	done
 
-	betterlockscreen -u $PWD/lockscreen
+	betterlockscreen -u "$lockscreen"
 }
 
 ## Polybar -----------------------------------
