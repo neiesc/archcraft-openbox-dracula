@@ -33,7 +33,7 @@ launch_bar() {
 	# 	MONITOR=$mon polybar -q main -c "$DIR"/config.ini &
 	# done
 	MONITOR=$mon polybar -q main -c "$DIR"/config.ini &
-	MONITOR=$mon polybar -q main-hdmi -c "$DIR"/config.ini &
+	#MONITOR=$mon polybar -q main-hdmi -c "$DIR"/config.ini &
 }
 
 # Execute functions
