@@ -21,4 +21,6 @@ gsettings set org.gnome.desktop.wm.preferences theme "Dracula"
 
 ln -sf $PWD/dependences/theme/plank/Dracula $HOME/.local/share/plank/themes
 
+plank --preferences
+
 ./files/openbox/themes/dracula/apply.sh
