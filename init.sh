@@ -7,7 +7,7 @@ $PWD/dependences/theme/openbox-icon-theme/install.sh dracula -d $HOME/.icons
 
 mkdir -p $HOME/.local/share/xfce4/terminal/colorschemes
 ln -sf $PWD/dependences/theme/xfce4-terminal/Dracula.theme $HOME/.local/share/xfce4/terminal/colorschemes/Dracula.theme
-    
+
 ln -sf $PWD/dependences/theme/gitk/gitk $HOME/.config/git/gitk
 
 ln -sf $PWD/files/openbox/themes/dracula $HOME/.config/openbox/themes
