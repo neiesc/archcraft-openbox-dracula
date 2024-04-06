@@ -1,4 +1,8 @@
 # Archcraft openbox dracula theme
+![Github Created At](https://img.shields.io/github/created-at/neiesc/archcraft-openbox-dracula?logo=github&style=for-the-badge)
+![Last Commit Date](https://img.shields.io/github/last-commit/neiesc/archcraft-openbox-dracula?logo=github&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/neiesc/archcraft-openbox-dracula?logo=github&style=for-the-badge)
+
 ## Screenshot
 ![Screenshot of Dracule themplate on Archcraftrtyrty](assets/Screenshot.png)
 ## Install
